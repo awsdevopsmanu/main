@@ -1,2 +1,2 @@
 echo "hellogithub"
-echo "tested"
+echo "removed tested from main"
